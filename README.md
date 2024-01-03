@@ -1,5 +1,5 @@
 # Zenon
-Zenon is a modern and simple to use java library for HTTP requests
+Zenon is a modern and simple open source java library for HTTP requests
 
 # Installation
 For maven package manager add this dependency:
