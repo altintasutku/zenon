@@ -8,8 +8,8 @@
     <artifactId>zenon</artifactId>
     <version>0.1-BETA</version>
 
-    <name>Zenon Java's http library</name>
-    <description>A simple way sending http request's in Java</description>
+    <name>Zenon Java's HTTP library</name>
+    <description>Zenon is a modern and simple open source java library for HTTP requests</description>
     <url>https://github.com/altintasutku/zenon</url>
 
     <developers>
@@ -45,12 +45,6 @@
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
             <version>20231013</version>
-        </dependency>
-        <dependency>
-            <groupId>org.jetbrains</groupId>
-            <artifactId>annotations</artifactId>
-            <version>RELEASE</version>
-            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>junit</groupId>

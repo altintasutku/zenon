@@ -1,6 +1,5 @@
 package com.altintas.zenon;
 
-import org.jetbrains.annotations.NotNull;
 import org.json.JSONObject;
 
 import java.io.IOException;
@@ -19,8 +18,8 @@ public class Request {
     private Exception error;
     private HttpURLConnection connection;
 
-    public Request(@NotNull URL url,
-                   @NotNull RequestType type,
+    public Request(URL url,
+                   RequestType type,
                    ArrayList<Header> headers,
                    ArrayList<QueryParameter> params,
                    JSONObject body) {
