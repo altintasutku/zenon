@@ -7,7 +7,7 @@ For maven package manager add this dependency:
     <dependency>
 	  <groupId>org.altintas</groupId>
 	  <artifactId>zenon</artifactId>
-	  <version>1.0-SNAPSHOT</version>
+	  <version>0.1-BETA</version>
 	</dependency>
 
 if you are using maven cli run this command
