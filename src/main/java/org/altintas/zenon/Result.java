@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 
-public class Result {
+public class  Result {
 
     private int statusCode;
     private String data;
