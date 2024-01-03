@@ -1,4 +1,4 @@
-package org.altintas.zenon;
+package com.altintas.zenon;
 
 public enum RequestType {
         GET,
