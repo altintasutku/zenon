@@ -12,7 +12,7 @@ For maven package manager add this dependency:
 
 if you are using maven cli run this command
 
-    mvn install
+    $ mvn install
 
 ## Getting Started
 
