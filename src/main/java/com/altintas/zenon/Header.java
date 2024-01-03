@@ -1,10 +1,10 @@
-package org.altintas.zenon;
+package com.altintas.zenon;
 
-public class QueryParameter {
+public class Header {
     private String key;
     private String value;
 
-    public QueryParameter(String key, String value) {
+    public Header(String key, String value){
         this.key = key;
         this.value = value;
     }

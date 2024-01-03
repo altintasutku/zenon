@@ -1,8 +1,7 @@
-package org.altintas.zenon;
+package com.altintas.zenon;
 
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.HashMap;
 
 public class Zenon {
 

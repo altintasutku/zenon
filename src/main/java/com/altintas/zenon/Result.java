@@ -1,4 +1,4 @@
-package org.altintas.zenon;
+package com.altintas.zenon;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
