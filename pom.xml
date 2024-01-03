@@ -17,8 +17,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub altintas Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/utkualt0/zenon</url>
+            <name>GitHub altintasutku Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/altintasutku/zenon</url>
         </repository>
     </distributionManagement>
 
